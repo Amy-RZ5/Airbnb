@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="843eb2e5-7869-4a10-a382-be6809e278a0" name="Changes" comment="check du contenu des colonnes en string">
+    <list default="true" id="843eb2e5-7869-4a10-a382-be6809e278a0" name="Changes" comment="pourcentage de valeurs nulles (ui jss pas inspirée)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/example.ipynb" afterDir="false" />
     </list>
@@ -33,19 +33,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/data" />
@@ -69,7 +69,8 @@
       <workItem from="1778575628093" duration="1382000" />
       <workItem from="1778592409964" duration="68000" />
       <workItem from="1778592529648" duration="5000" />
-      <workItem from="1778592950194" duration="5585000" />
+      <workItem from="1778592950194" duration="5671000" />
+      <workItem from="1778599544630" duration="4213000" />
     </task>
     <task id="LOCAL-00001" summary="juste pour tester">
       <option name="closed" value="true" />
@@ -127,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778595186444</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="pourcentage de valeurs nulles (ui jss pas inspirée)">
+      <option name="closed" value="true" />
+      <created>1778599481966</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1778599481966</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +161,7 @@
     <MESSAGE value="ajout exemple notebook" />
     <MESSAGE value="ajout exemple notebook + suppression notebook initial" />
     <MESSAGE value="check du contenu des colonnes en string" />
-    <option name="LAST_COMMIT_MESSAGE" value="check du contenu des colonnes en string" />
+    <MESSAGE value="pourcentage de valeurs nulles (ui jss pas inspirée)" />
+    <option name="LAST_COMMIT_MESSAGE" value="pourcentage de valeurs nulles (ui jss pas inspirée)" />
   </component>
 </project>
