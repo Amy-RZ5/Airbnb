@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="843eb2e5-7869-4a10-a382-be6809e278a0" name="Changes" comment="ajout exemple notebook + suppression notebook initial">
+    <list default="true" id="843eb2e5-7869-4a10-a382-be6809e278a0" name="Changes" comment="check du contenu des colonnes en string">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/example.ipynb" afterDir="false" />
     </list>
@@ -69,7 +69,7 @@
       <workItem from="1778575628093" duration="1382000" />
       <workItem from="1778592409964" duration="68000" />
       <workItem from="1778592529648" duration="5000" />
-      <workItem from="1778592950194" duration="2128000" />
+      <workItem from="1778592950194" duration="5585000" />
     </task>
     <task id="LOCAL-00001" summary="juste pour tester">
       <option name="closed" value="true" />
@@ -119,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778578060475</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="check du contenu des colonnes en string">
+      <option name="closed" value="true" />
+      <created>1778595186444</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1778595186444</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +151,7 @@
     <MESSAGE value="final setup github repo" />
     <MESSAGE value="ajout exemple notebook" />
     <MESSAGE value="ajout exemple notebook + suppression notebook initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajout exemple notebook + suppression notebook initial" />
+    <MESSAGE value="check du contenu des colonnes en string" />
+    <option name="LAST_COMMIT_MESSAGE" value="check du contenu des colonnes en string" />
   </component>
 </project>
