@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="843eb2e5-7869-4a10-a382-be6809e278a0" name="Changes" comment="juste pour tester">
-      <change afterPath="$PROJECT_DIR$/.idea/Airbnb 2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Explication.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/airbnb_test.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/airbnb_train.csv" afterDir="false" />
+    <list default="true" id="843eb2e5-7869-4a10-a382-be6809e278a0" name="Changes" comment="ajout exemple notebook">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/example.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +46,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -63,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1778575627074</updated>
-      <workItem from="1778575628093" duration="639000" />
+      <workItem from="1778575628093" duration="1358000" />
     </task>
     <task id="LOCAL-00001" summary="juste pour tester">
       <option name="closed" value="true" />
@@ -73,7 +76,39 @@
       <option name="project" value="LOCAL" />
       <updated>1778577072812</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="juste pour tester pt2">
+      <option name="closed" value="true" />
+      <created>1778577496048</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1778577496048</updated>
+    </task>
+    <task id="LOCAL-00003" summary="train test dans data">
+      <option name="closed" value="true" />
+      <created>1778577562067</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1778577562067</updated>
+    </task>
+    <task id="LOCAL-00004" summary="final setup github repo">
+      <option name="closed" value="true" />
+      <created>1778577653128</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1778577653128</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ajout exemple notebook">
+      <option name="closed" value="true" />
+      <created>1778577798133</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1778577798133</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +127,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="juste pour tester" />
-    <option name="LAST_COMMIT_MESSAGE" value="juste pour tester" />
+    <MESSAGE value="juste pour tester pt2" />
+    <MESSAGE value="train test dans data" />
+    <MESSAGE value="final setup github repo" />
+    <MESSAGE value="ajout exemple notebook" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout exemple notebook" />
   </component>
 </project>
