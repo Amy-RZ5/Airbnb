@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="843eb2e5-7869-4a10-a382-be6809e278a0" name="Changes" comment="j'ai fini la partie exploration">
+    <list default="true" id="843eb2e5-7869-4a10-a382-be6809e278a0" name="Changes" comment="modif partie exploration (dernier bout de code)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/example.ipynb" afterDir="false" />
     </list>
@@ -72,7 +72,7 @@
       <workItem from="1778592950194" duration="5671000" />
       <workItem from="1778599544630" duration="4321000" />
       <workItem from="1778674819331" duration="2198000" />
-      <workItem from="1778678899161" duration="1054000" />
+      <workItem from="1778678899161" duration="4821000" />
     </task>
     <task id="LOCAL-00001" summary="juste pour tester">
       <option name="closed" value="true" />
@@ -154,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778676546201</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="modif partie exploration (dernier bout de code)">
+      <option name="closed" value="true" />
+      <created>1778680235486</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1778680235486</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,6 +190,7 @@
     <MESSAGE value="pourcentage de valeurs nulles (ui jss pas inspirée)" />
     <MESSAGE value="ajouts dans la partie exploration du pourcentage de valeurs nulles et autres trucs (describe par ex.)" />
     <MESSAGE value="j'ai fini la partie exploration" />
-    <option name="LAST_COMMIT_MESSAGE" value="j'ai fini la partie exploration" />
+    <MESSAGE value="modif partie exploration (dernier bout de code)" />
+    <option name="LAST_COMMIT_MESSAGE" value="modif partie exploration (dernier bout de code)" />
   </component>
 </project>
